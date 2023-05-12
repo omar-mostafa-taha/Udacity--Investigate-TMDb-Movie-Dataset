@@ -13,3 +13,5 @@ This project provided me an opportunity to go through the entire data analysis p
 * Be able to use vectorized operations in NumPy and pandas to speed up your data analysis code.
 * Become familiar with pandas' Series and DataFrame objects, which allow you to access your data more conveniently.
 * Know how to use Matplotlib to produce plots that show your findings.
+
+### You can view the data on kaggle through: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
